@@ -2,7 +2,7 @@
   "name": "Kingkiller Wiki Redirector",
   "author": "proEndreeper, Modified by penguinstyles to work for the Kingkiller Wiki",
   "version": "1.0.0",
-  "description": "Redirects Kingkiller Wikia/Fandom requests to Kingkiller Wiki, as well as removes Kingkiller Wikia/Fandom search results from Google.",
+  "description": "Redirects Kingkiller Wikia/Fandom requests to the new Kingkiller Wiki",
   "permissions": ["storage",
                   "*://kkc.wikia.com/*",
                   "*://kingkiller.wikia.com/*",
